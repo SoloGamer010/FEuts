@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FEuts/static/css/main.27e15eec.css",
+    "main.js": "/FEuts/static/js/main.c61dbaf0.js",
+    "static/js/453.df8c92cd.chunk.js": "/FEuts/static/js/453.df8c92cd.chunk.js",
+    "index.html": "/FEuts/index.html",
+    "main.27e15eec.css.map": "/FEuts/static/css/main.27e15eec.css.map",
+    "main.c61dbaf0.js.map": "/FEuts/static/js/main.c61dbaf0.js.map",
+    "453.df8c92cd.chunk.js.map": "/FEuts/static/js/453.df8c92cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e15eec.css",
+    "static/js/main.c61dbaf0.js"
+  ]
+}
