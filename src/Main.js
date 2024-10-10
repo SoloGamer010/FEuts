@@ -1,7 +1,8 @@
 import React from 'react';
 import Sidebar from './components/Sidebar';
 import Header from './components/Header';
-import Main from './components/Main';
+// import Main from './components/Main';
+import ReservationManager from './components/ReservationManager';
 import './App.css';
 
 function App() {
@@ -10,7 +11,8 @@ function App() {
       <Sidebar />
       <div className="main">
         <Header />
-        <Main />
+        {/* <Main /> */}
+        <ReservationManager />
       </div>
     </div>
   );
